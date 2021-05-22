@@ -9,6 +9,7 @@ Feel free to fork this repo.
 
 <img width="1042" alt="petclinic-screenshot" src="https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png">
 
+
 # Levantar utilizando MySQL
 
 Por defecto la aplicación levanta utilizando una BD embebida, para levantar la aplicación con MySQL seguir lo siguientes pasos:
